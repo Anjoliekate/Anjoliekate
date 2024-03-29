@@ -1,4 +1,4 @@
-###🔮 Hello World, I'm Anjolie (aka Jo)
+### 🔮 Hello World, I'm Anjolie (aka Jo)
 
 👩🏼‍💻 I am a Software Developer here to display my unique skillset and bring you along my coding journey <br/>
 🎓 Attented Utah Tech University to attain my Bachelors degree in Software Engineering <br/>
