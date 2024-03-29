@@ -5,5 +5,5 @@
 🤖 Currently learning how to utilize [sentiment analysis models](https://huggingface.co/ProsusAI/finbert) to train a stock-trading bot<br/>
 <br/>
 <br/>
-[![Anjolie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjoliekate&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Anjolie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjoliekate&count_private=true&show_icons=true&theme=ambient_gradient&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
